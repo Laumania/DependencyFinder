@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyFinder", "DependencyFinder\DependencyFinder.csproj", "{AAEBA2DE-72A2-4D3E-A0D6-88BF42A28F01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyEngine", "DependencyEngine\DependencyEngine.csproj", "{514E74AB-474E-47D0-942B-CFA4C647CE4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyVisualizer", "DependencyVisualizer\DependencyVisualizer.csproj", "{FC465092-821A-4077-9892-EEFF97C51C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAEBA2DE-72A2-4D3E-A0D6-88BF42A28F01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAEBA2DE-72A2-4D3E-A0D6-88BF42A28F01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAEBA2DE-72A2-4D3E-A0D6-88BF42A28F01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAEBA2DE-72A2-4D3E-A0D6-88BF42A28F01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{514E74AB-474E-47D0-942B-CFA4C647CE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{514E74AB-474E-47D0-942B-CFA4C647CE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{514E74AB-474E-47D0-942B-CFA4C647CE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{514E74AB-474E-47D0-942B-CFA4C647CE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC465092-821A-4077-9892-EEFF97C51C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC465092-821A-4077-9892-EEFF97C51C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC465092-821A-4077-9892-EEFF97C51C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC465092-821A-4077-9892-EEFF97C51C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
