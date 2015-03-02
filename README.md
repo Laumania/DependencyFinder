@@ -1,3 +1,4 @@
+#DependencyFinder
 Dependency Finder is a tool that can help you get an overview of which projects and assemblies are refered and from where.
 The idea is that you choose a "root" folder. The application then recursivly goes through all the subfolders and find all your project files (only .csproj files). It will then figure out "project" reference and "assembly" references. The last one is especially relevant if your big website is build of multiply solutions and therefore don't use project references.
 
@@ -32,10 +33,10 @@ Thanks to this project http://www.codeplex.com/dependencyvisualizer you can now 
 
 # Screenshot
 ## General view
-[image:DependencyFinder1.png]
+![alt text](https://raw.githubusercontent.com/Laumania/DependencyFinder/master/screenshots/DependencyFinder1.png "DependencyFinder Screenshot 01")
 
 ## Visualization
-[image:DependencyFinder2.png]
+![alt text](https://raw.githubusercontent.com/Laumania/DependencyFinder/master/screenshots/DependencyFinder2.png "DependencyFinder Screenshot 02")
 
 #History note
 This project was originally living on https://dependencyfinder.codeplex.com/, but is now moved here, as Github has become so much cooler than Codeplex.com.
