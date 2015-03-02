@@ -36,3 +36,6 @@ Thanks to this project http://www.codeplex.com/dependencyvisualizer you can now 
 
 ## Visualization
 [image:DependencyFinder2.png]
+
+#History note
+This project was originally living on https://dependencyfinder.codeplex.com/, but is now moved here, as Github has become so much cooler than Codeplex.com.
