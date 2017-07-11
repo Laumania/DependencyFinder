@@ -1,14 +1,18 @@
-#DependencyFinder
+# DependencyFinder
 Dependency Finder is a tool that can help you get an overview of which projects and assemblies are refered and from where.
 The idea is that you choose a "root" folder. The application then recursivly goes through all the subfolders and find all your project files (only .csproj files). It will then figure out "project" reference and "assembly" references. The last one is especially relevant if your big website is build of multiply solutions and therefore don't use project references.
 
-#Technical stuff
+# Important note - dated content!
+Eventhough this tool was added to Github around 2015, it's way older. Cannot remember but I guess it from around 2008 or so. 
+Just wanted to point that out, so you don't think I would code an application like this in 2015 :)
+
+# Technical stuff
 The application is written in C# to .NET 3.5. and therefore require at least .NET 3.5 runtime to run.
 
 For now the application will ONLY look for .csproj files (C# project files) from VS2005 or VS2008.
 
 
-#Getting Started
+# Getting Started
 First of all you need to get the lastest release of the project from the "Releases" tab on this page.
 
 * Choose your "root" folder, from where the application will start looking for .csproj files. Do this by clicking on the "Browse" button. Navigate to your project(s) root folder and click ok. The path to your root folder will now be in the textbox besides the "Browse" button.
