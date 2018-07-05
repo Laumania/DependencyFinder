@@ -1,7 +1,0 @@
-﻿Microsoft Visual Studio icons used (from the Library)
-Denpendency Visualizer: http://www.codeplex.com/dependencyvisualizer
-Famfamfam icons (www.famfamfam.com)
-
-
-Contributors:
-sukru: http://www.codeplex.com/site/users/view/sukru
